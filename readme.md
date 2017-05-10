@@ -8,3 +8,6 @@ pantone 200c
 ```
 rgb(186, 12, 47)
 ```
+
+![PLCH logo mark](/)
+![Alt text](/brand-and-logos/blob/master/Logo_mark.png?raw=true "Optional Title")
