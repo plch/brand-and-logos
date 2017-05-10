@@ -9,4 +9,4 @@ pantone 200c
 rgb(186, 12, 47)
 ```
 
-![PLCH logo mark](/brand-and-logos/blob/master/Logo_mark.png?raw=true "PLCH logo mark")
+![PLCH logo mark](brand-and-logos/Logo_mark.png "PLCH logo mark")
