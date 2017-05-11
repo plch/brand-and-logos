@@ -1,11 +1,20 @@
+# Basic Style Guide
+
+***
+
 # Colors
 ## PLCH red
 pantone : ```200c```
 hex: ```#ba0c2f```
 rgb: ```rgb(186, 12, 47)```
 
-# logo images
+# Typography
+## Web Fonts
+```css
+font-family: "Open Sans", sans-serif;
+```
 
+# Logo Images
 ## logo master
 ![PLCH_Logo_Master_red_white.png](./PLCH_Logo_Master_red_white.png?raw=true "PLCH_Logo_Master_red_white.png")
 
