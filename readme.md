@@ -1,4 +1,4 @@
-# Basic Style Guide
+# Basic Style Guide (beta)
 
 ## Colors
 ### PLCH red
