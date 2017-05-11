@@ -19,7 +19,7 @@ font-family: "Open Sans", sans-serif;
 ### logo mark
 ![Logo_mark.png](./Logo_mark.png?raw=true "Logo_mark.png")
 
-### logo mark
+### logo Horizontal
 ![PLCH_Logo_Horizontal_Red.png](./PLCH_Logo_Horizontal_Red.png?raw=true "PLCH_Logo_Horizontal_Red.png")
 
 ### logo pages
